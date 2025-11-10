@@ -31,9 +31,9 @@ I’m a junior full-stack developer focused on building clean, efficient, and sc
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Las estadisticas del repositorio
+## Statistics 📊
 
-![jolly](https://github-readme-stats.vercel.app/api?username=yessbertel&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly)
-![jolly_repo](https://github-readme-stats.vercel.app/api/pin/?username=yessbertel&repo=github-readme-stats&cache_seconds=86400&theme=jolly)
+![cobalt](https://github-readme-stats.vercel.app/api?username=yessbertel&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt)
+![cobalt2](https://github-readme-stats.vercel.app/api?username=yessbertel&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt2)
 
 
