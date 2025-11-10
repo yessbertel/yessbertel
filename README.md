@@ -34,6 +34,7 @@ I’m a junior full-stack developer focused on building clean, efficient, and sc
 ## Statistics 📊
 
 ![cobalt](https://github-readme-stats.vercel.app/api?username=yessbertel&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt)
-![cobalt2](https://github-readme-stats.vercel.app/api?username=yessbertel&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yessbertel&layout=compact&theme=dark)
+![cobalt2](https://github-readme-stats.vercel.app/api/pin/?username=yessbertel&repo=github-readme-stats&cache_seconds=86400&theme=cobalt)
 
 
