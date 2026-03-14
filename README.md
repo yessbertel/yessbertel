@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ5cmQ4MGl3OTlrZG92eDdjbXVwN3dvMzh2cWlleDRnYW9lOXhkcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AOXNxxIJuBQdNTBblp/giphy.gif" width="100"/> Hi, I’m Yessica — Full-Stack Software Developer
 
-<img src="yessbertel-banner.gif" width="1000">
+<img src="yessbertel-banner.gif" width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yessica-bertel-777277215/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](#)
