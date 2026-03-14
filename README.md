@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](#)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](#)
 
-I’m a junior full-stack developer focused on building clean, efficient, and scalable web applications. I work mainly with JavaScript, React, Next.js, and Node.js, and I’m constantly improving my skills to write better, smarter code.
+I’m a full-stack developer focused on building clean, efficient, and scalable web applications. I work mainly with JavaScript, React, Next.js, and Node.js, and I’m constantly improving my skills to write better, smarter code.
 
 🚀 Currently enhancing my technical foundations and building projects to strengthen my portfolio.  
 💡 Open to junior developer roles and collaboration on meaningful tech projects.
